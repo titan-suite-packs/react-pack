@@ -100,7 +100,7 @@ class App extends Component {
 
         <p>This Titan Pack was made with <Icon name="fire" /> by <a href="https://www.northernblock.ca" target="_blank">NorthernBlock</a> in <Flag name='ca' />!</p>
 
-        <Button as="a" href={'https://www.github.com/titanpacks'} color='grey' rel="noopener noreferrer" target='_blank' icon='github' content='Source' />
+        <Button as="a" href={'https://www.github.com/titan-suite-packs/react-pack'} color='grey' rel="noopener noreferrer" target='_blank' icon='github' content='Source' />
 
       </Container>
     );
