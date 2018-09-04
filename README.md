@@ -4,7 +4,7 @@ This repository creates a simple setup for blockchain developers to get started 
 
 ## Setup
 
-- Specify where your AION node is running in `titan.config.js`
+- Specify where your AION node is running in `titanrc.js`
 
 - `titan unlock`
 - (optional) `titan compile contracts/SimpleStorage.sol`
